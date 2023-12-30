@@ -1,0 +1,21 @@
+<h1>Top 10 EDM Festivals of 2023</h1>
+<ol><li> <h4>Tomorrowland (Boom, Belgium)</h4> Renowned for its magical atmosphere and world-class lineup, Tomorrowland consistently ranks among the top EDM festivals globally.
+
+    </li><li> <h4>Ultra Music Festival (Miami, USA)</h4> A staple in the EDM calendar, Ultra attracts top-tier artists and electronic music enthusiasts from around the world.
+
+    </li><li> <h4>Electric Daisy Carnival (EDC) (Various Locations)</h4> With editions in multiple locations, EDC is known for its elaborate stage designs and diverse lineup, showcasing the best in electronic dance music.
+
+    </li><li> <h4>Creamfields (Cheshire, UK)</h4> One of the UK's premier EDM festivals, Creamfields boasts a history of legendary performances and cutting-edge production.
+
+    </li><li> <h4>Sónar Festival (Barcelona, Spain)</h4> Sónar is celebrated for its innovative approach, merging electronic music with technology and multimedia arts.
+
+    </li><li> <h4>Electric Zoo (New York City, USA)</h4> Held annually in NYC, Electric Zoo features a diverse range of EDM sub-genres and a vibrant atmosphere.
+
+    </li><li> <h4>ADE (Amsterdam, Netherlands)</h4> Though not solely an EDM festival, the Amsterdam Dance Event is a massive gathering for electronic music professionals and fans, offering a diverse program of events.
+
+    </li><li> <h4>Movement Electronic Music Festival (Detroit, USA)</h4> <span>Recognized as a homage to techno music, Movement in Detroit is a must-attend for techno enthusiasts and EDM lovers alike.</span>
+
+    </li><li> <h4>Mysteryland (Haarlemmermeer, Netherlands)</h4> <span>Mysteryland is one of the longest-running electronic music festivals, offering a unique blend of music, art, and culture.</span>
+    
+    </li><li> <h4>Shambhala Music Festival (British Columbia, Canada)</h4> <span>Nestled in the picturesque mountains, Shambhala provides an immersive experience with a focus on community and diverse electronic music genres.</span>
+    </li></ol>
